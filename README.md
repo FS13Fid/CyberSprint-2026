@@ -51,7 +51,7 @@
 Требуются **Python 3.10+**, **Node.js 20.19+**, npm и Git. Node.js с npm: https://nodejs.org/en/download/
 
 ```bash
-git clone https://github.com/FS13Fid/CyberSprint_2026_Qualifying_Stage.git
+git clone https://github.com/FS13Fid/CyberSprint-2026.git
 cd CyberSprint_2026_Qualifying_Stage
 npm ci
 npm run build
@@ -78,7 +78,6 @@ python -m uvicorn main:app --reload
 | `YANDEX_OAUTH_CLIENT_ID`, `YANDEX_OAUTH_CLIENT_SECRET` | OAuth Яндекса |
 | `VK_ID_CLIENT_ID` | Авторизация VK ID |
 
-Не размещайте токены, пароли, приватные SSH-ключи и SQLite-базу в GitHub.
 
 ## Обновление действующего сервера
 
