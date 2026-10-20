@@ -52,7 +52,7 @@
 
 ```bash
 git clone https://github.com/FS13Fid/CyberSprint-2026.git
-cd CyberSprint_2026_Qualifying_Stage
+cd CyberSprint-2026
 npm ci
 npm run build
 python3 -m venv .venv
