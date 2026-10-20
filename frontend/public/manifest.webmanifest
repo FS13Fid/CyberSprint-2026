@@ -1,0 +1,14 @@
+{
+  "name": "Печать героя — Киберрывок 2026",
+  "short_name": "Печать героя",
+  "description": "Тренажёр слепой печати с личным прогрессом.",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f2eb",
+  "theme_color": "#f4f2eb",
+  "icons": [
+    { "src": "/static/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
